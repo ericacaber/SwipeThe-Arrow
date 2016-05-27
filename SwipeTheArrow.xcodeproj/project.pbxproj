@@ -167,6 +167,7 @@
 				TargetAttributes = {
 					07C0EA691A3AFD4D004E10EB = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = 649ME737QK;
 					};
 					07C0EA821A3AFD4D004E10EB = {
 						CreatedOnToolsVersion = 6.1;
@@ -280,7 +281,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -300,6 +302,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "1ded565e-7356-404a-abd5-2e18a6d53d63";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -322,7 +325,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -335,6 +339,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "1ded565e-7356-404a-abd5-2e18a6d53d63";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -344,9 +349,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
 				INFOPLIST_FILE = SwipeTheArrow/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "1ded565e-7356-404a-abd5-2e18a6d53d63";
 			};
 			name = Debug;
 		};
@@ -354,9 +362,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
 				INFOPLIST_FILE = SwipeTheArrow/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "1ded565e-7356-404a-abd5-2e18a6d53d63";
 			};
 			name = Release;
 		};
@@ -413,6 +424,7 @@
 				07C0EA8F1A3AFD4D004E10EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		07C0EA901A3AFD4D004E10EB /* Build configuration list for PBXNativeTarget "SwipeTheArrowTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +433,7 @@
 				07C0EA921A3AFD4D004E10EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
