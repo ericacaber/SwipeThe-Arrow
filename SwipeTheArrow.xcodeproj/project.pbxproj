@@ -169,7 +169,7 @@
 				TargetAttributes = {
 					07C0EA691A3AFD4D004E10EB = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 649ME737QK;
+						DevelopmentTeam = HDFP2R3PJP;
 					};
 					07C0EA821A3AFD4D004E10EB = {
 						CreatedOnToolsVersion = 6.1;
@@ -352,13 +352,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: k.bacalso@klab.com (P2J768NMMF)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: k.bacalso@klab.com (P2J768NMMF)";
 				INFOPLIST_FILE = SwipeTheArrow/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Cys.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.psl;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1ded565e-7356-404a-abd5-2e18a6d53d63";
+				PROVISIONING_PROFILE = "b404dfa8-2b3b-4196-a725-0348cd936b60";
 			};
 			name = Debug;
 		};
@@ -366,13 +366,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ericacaber@yahoo.com (6K6K5H7TTE)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: k.bacalso@klab.com (P2J768NMMF)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: k.bacalso@klab.com (P2J768NMMF)";
 				INFOPLIST_FILE = SwipeTheArrow/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Cys.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.psl;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "1ded565e-7356-404a-abd5-2e18a6d53d63";
+				PROVISIONING_PROFILE = "b404dfa8-2b3b-4196-a725-0348cd936b60";
 			};
 			name = Release;
 		};
